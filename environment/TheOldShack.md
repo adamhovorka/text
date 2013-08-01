@@ -18,8 +18,8 @@ Maybe it leads nowhere. Maybe it leads to adventure. There's really only one way
 
 ## Exits
 
-Back, Down - <next room>
+Back, Down
 
 ## Flags
 
-Dark
+Dim
